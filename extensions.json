@@ -1,5 +1,5 @@
 {
-    "featured": ["tpos","jukebox","gerty","usermanager","lnticket"],
+    "featured": ["laisee","bitcoinswitch"],
     "extensions": [
          {
             "id": "laisee",
