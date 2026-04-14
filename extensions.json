@@ -5,7 +5,7 @@
             "id": "laisee",
             "repo": "https://github.com/liongrass/laisee_extension",
             "name": "Laisee",
-            "version": "0.1",
+            "version": "0.2",
             "short_description": "Little red envelopes with money: Lightning Laisee.",
             "icon": "https://raw.githubusercontent.com/Liongrass/laisee_extension/a8206fe479f7d4075f2e53b09ecb047169b1a834/assets/icon.png",
             "archive": "https://github.com/Liongrass/laisee_extension/archive/refs/tags/v0.2.zip",
