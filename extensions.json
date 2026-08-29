@@ -35,11 +35,11 @@
             "id": "roxy",
             "repo": "https://github.com/Liongrass/roxy_extension",
             "name": "Roxy",
-            "version": "0.7",
+            "version": "0.8",
             "short_description": "Create truly static LNURLs without regrets.",
             "icon": "https://raw.githubusercontent.com/Liongrass/roxy-extension/refs/heads/master/assets/icon.png",
-            "archive": "https://github.com/Liongrass/roxy-extension/archive/refs/tags/v0.7.zip",
-            "hash": "530897d671d389949db4f7796a96626cecbf878dd1816bb3a173203ecb1b2336"
+            "archive": "https://github.com/Liongrass/roxy-extension/archive/refs/tags/v0.8.zip",
+            "hash": "3056e7438f3fcc793ff414faea230094ea29217696f48791ee780e685c8364d2"
         }
     ]
 }
