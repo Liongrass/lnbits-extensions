@@ -25,11 +25,11 @@
             "id": "laisee",
             "repo": "https://github.com/liongrass/laisee_extension",
             "name": "Laisee",
-            "version": "0.8-rc1",
+            "version": "0.8-rc2",
             "short_description": "Little red envelopes with money: Lightning Laisee.",
             "icon": "https://raw.githubusercontent.com/Liongrass/laisee_extension/a8206fe479f7d4075f2e53b09ecb047169b1a834/assets/icon.png",
-            "archive": "https://github.com/Liongrass/laisee_extension/archive/refs/tags/v0.8-rc1.zip",
-            "hash": "5a2e7e9032ed45568f747fe29e0c878427a3ed3ac6dcfb73f1f70cae1ddb0e96"
+            "archive": "https://github.com/Liongrass/laisee_extension/archive/refs/tags/v0.8-rc2.zip",
+            "hash": "0103efbf9ce56f4db3e3d4ce4b971ee88f38f862c847c14c705f21ceb4726c4d"
         },
          {
             "id": "bitcoinswitch",
