@@ -35,11 +35,11 @@
             "id": "loop",
             "repo": "https://github.com/liongrass/loop_extension",
             "name": "Loop",
-            "version": "0.1",
+            "version": "0.2",
             "short_description": "Send and receive funds onchain with Lightning Loop.",
             "icon": "https://raw.githubusercontent.com/Liongrass/loop_extension/refs/heads/main/static/loop.png",
-            "archive": "https://github.com/Liongrass/loop_extension/archive/refs/tags/v0.1.zip",
-            "hash": "6b1beb108eaa08a1ec523f5d7d02635d1d0086eef1c21d72a836ddb0e4815770"
+            "archive": "https://github.com/Liongrass/loop_extension/archive/refs/tags/v0.2.zip",
+            "hash": "eb80d7693f292488db6482be0a7510f8edef52133d26c92d23e23247b940d643"
         },
          {
             "id": "bitcoinswitch",
